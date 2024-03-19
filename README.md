@@ -1,3 +1,0 @@
-# Termux Widget Shortcut Scripts
-
-
