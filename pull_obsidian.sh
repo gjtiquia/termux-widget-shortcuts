@@ -8,5 +8,5 @@ echo "git pull"
 git pull --rebase=false --no-edit
 
 echo ""
-echo "[Press any key to exit]"
+echo "[Press any Enter to exit]"
 read

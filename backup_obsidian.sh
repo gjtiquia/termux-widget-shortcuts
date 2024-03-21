@@ -12,5 +12,5 @@ echo "git push"
 git push
 
 echo ""
-echo "[Press any key to exit]"
+echo "[Press any Enter to exit]"
 read
