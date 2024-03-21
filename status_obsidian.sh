@@ -9,5 +9,5 @@ echo "git status"
 git status
 
 echo ""
-echo "[Press any Enter to exit]"
+echo "[Press Enter to exit]"
 read
